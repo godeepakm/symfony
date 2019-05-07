@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fsymfony.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgodeepakm%2Fsymfony?ref=badge_shield)
+
 <p align="center"><a href="https://symfony.com" target="_blank">
     <img src="https://symfony.com/logos/symfony_black_02.svg">
 </a></p>
@@ -74,3 +76,7 @@ Symfony development is sponsored by [SensioLabs][21], led by the
 [23]: https://github.com/symfony/symfony-demo
 [24]: https://symfony.com/coc
 [25]: https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fsymfony.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgodeepakm%2Fsymfony?ref=badge_large)
